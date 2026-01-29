@@ -20,7 +20,7 @@ A robust database implementation for managing hotel operations, built entirely i
 
 ---
 
-# 🏨 Sistem Gestiune Hoteliera - Backend (RO)
+# 🏨 Sistem Gestiune Hoteliera - SQL (RO)
 
 O implementare robusta a unei baze de date pentru gestionarea operatiunilor hoteliere, dezvoltata integral in **Oracle PL/SQL**. Acest proiect se concentreaza pe logica de back-end, integritatea datelor si automatizarea proceselor pentru hoteluri, camere, clienti si angajati.
 
